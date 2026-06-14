@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="TenderAnalyzer.AI/TenderAnalyzer.AI.csproj" />
+  <Project Path="TenderAnalyzer.Api/TenderAnalyzer.Api.csproj" />
+  <Project Path="TenderAnalyzer.Application/TenderAnalyzer.Application.csproj" />
+  <Project Path="TenderAnalyzer.Domain/TenderAnalyzer.Domain.csproj" />
+  <Project Path="TenderAnalyzer.Infrastructure/TenderAnalyzer.Infrastructure.csproj" />
+</Solution>
